@@ -1,4 +1,5 @@
 import java.util.*;
+//JAI SHREE RAAM
 public class welcome{
 public static void main(String[] args){
 Scanner sc = new Scanner(System.in);
